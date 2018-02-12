@@ -1,0 +1,18 @@
+Modules:
+folium
+geopy
+
+Files:
+locations.list
+The next files are located in flags
+    Canada.jpeg
+    France.jpeg
+    Germany.jpeg
+    India.jpeg
+    Iran.jpeg
+    Italy.jpeg
+    Japan.jpeg
+    mark.jpeg
+    SK.jpeg
+    UK.jpeg
+    USA.jpeg
